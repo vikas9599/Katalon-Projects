@@ -18,7 +18,17 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKeywords
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
-Mobile.startApplication('C:\\Users\\Vikash\\Desktop\\App\\app-mastram-universal-debug.apk', false)
+
+
+Mobile.startApplication('C:\\Users\\Vikash\\Desktop\\App\\app-mastram-universal-debug.apk', true)
+Mobile.delay(10)
+Mobile.tap(findTestObject('App Launch/android.widget.ImageButton0'), 3)
 Mobile.delay(5)
 Mobile.takeScreenshot()
-Mobile.getDeviceManufacturer()
+
+Mobile.tap(findTestObject('App Launch/android.widget.RelativeLayout6'), 5)
+Mobile.delay(5)
+Mobile.takeScreenshot()
+
+Mobile.closeApplication()
+
