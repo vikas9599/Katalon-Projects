@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is for App Launch.</description>
+   <name>App Launch</name>
+   <tag>Launch</tag>
+   <comment></comment>
+   <testCaseGuid>92197922-3f58-4c90-a09e-d4c6fb829b98</testCaseGuid>
+</TestCaseEntity>

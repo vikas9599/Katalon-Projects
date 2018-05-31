@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>This is Mastram Project for Test App</description>
+   <name>Mastram App</name>
+   <tag></tag>
+   <UUID>ef88cff2-eab2-41b8-a7b4-34e5f7f4c7b6</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

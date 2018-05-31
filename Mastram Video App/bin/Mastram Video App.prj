@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>This is Mastram App for Automation
+</description>
+   <name>Mastram Video App</name>
+   <tag></tag>
+   <UUID>764ca5a7-88b7-48ca-9215-41a0512caa22</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
