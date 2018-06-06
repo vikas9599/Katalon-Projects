@@ -19,15 +19,20 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-
 Mobile.startApplication('C:\\Users\\Vikash\\Desktop\\App\\app-mastram-universal-debug.apk', true)
-Mobile.delay(10)
+
+Mobile.delay(20)
+
 Mobile.tap(findTestObject('App Launch/android.widget.ImageButton0'), 3)
+
 Mobile.delay(5)
+
 Mobile.takeScreenshot()
 
 Mobile.tap(findTestObject('App Launch/android.widget.RelativeLayout6'), 5)
+
 Mobile.delay(5)
+
 Mobile.takeScreenshot()
 
 Mobile.closeApplication()

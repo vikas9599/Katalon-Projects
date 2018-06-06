@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Smoke Test Suit" time="156" tests="1" failures="0" errors="0">
+   <testsuite name="Smoke Test Suit" tests="1" failures="0" errors="0" time="156" timestamp="2018-06-06 14:19:43" hostname="Vikash - VikasRathourPC01" id="Test Suites/Smoke Test Suit">
+      <properties>
+         <property name="deviceName" value="motorola Moto G (4) (Android 7.0)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940"/>
+         <property name="logFiles" value="C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\appium.log, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275044953.png, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275056170.png, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275068902.png, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275072709.png, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275080667.png, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275089242.png, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275101289.png, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275111836.png, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275122686.png, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275134364.png"/>
+         <property name="hostName" value="Vikash - VikasRathourPC01"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.8.1"/>
+         <property name="deviceModel" value="Moto G (4)"/>
+         <property name="hostAddress" value="192.168.1.22"/>
+         <property name="deviceManufacturer" value="motorola"/>
+         <property name="deviceId" value="ZY223GVD7M"/>
+         <property name="deviceName" value="motorola Moto G (4) (Android 7.0)"/>
+         <property name="deviceOSVersion" value="7.0"/>
+      </properties>
+      <testcase name="Test Cases/Basic Test case" classname="Test Cases/Basic Test case" status="PASSED">
+         <system-out><![CDATA[2018-06-06 14:19:44 - [TEST_CASE][PASSED] - Test Cases/Basic Test case: Test Cases/Basic Test case
+
+2018-06-06 14:19:44 - [TEST_STEP][PASSED] - startApplication: Started app at: 'C:\Users\Vikash\Desktop\App\app-mastram-universal-debug.apk'
+
+2018-06-06 14:20:39 - [MESSAGE][PASSED] - Started app at: 'C:\Users\Vikash\Desktop\App\app-mastram-universal-debug.apk'
+
+2018-06-06 14:20:39 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-06-06 14:20:44 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-06-06 14:20:44 - [TEST_STEP][PASSED] - takeScreenshot: Screenshot is taken
+
+2018-06-06 14:20:49 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275044953.png]]
+
+2018-06-06 14:20:49 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Basic Test ID/android.widget.ImageButton0'
+
+2018-06-06 14:20:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 14:20:51 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Basic Test ID/android.widget.ImageButton0'
+
+2018-06-06 14:20:51 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-06-06 14:20:56 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-06-06 14:20:56 - [TEST_STEP][PASSED] - takeScreenshot: Screenshot is taken
+
+2018-06-06 14:20:57 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275056170.png]]
+
+2018-06-06 14:20:57 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Basic Test ID/android.widget.TextView15 - My Playlist'
+
+2018-06-06 14:20:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 14:20:58 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Basic Test ID/android.widget.TextView15 - My Playlist'
+
+2018-06-06 14:20:58 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-06-06 14:21:03 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-06-06 14:21:03 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Basic Test ID/android.widget.Button1 - OK'
+
+2018-06-06 14:21:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 14:21:07 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Basic Test ID/android.widget.Button1 - OK'
+
+2018-06-06 14:21:07 - [TEST_STEP][PASSED] - hideKeyboard: Keyboard is hidden
+
+2018-06-06 14:21:08 - [MESSAGE][PASSED] - Keyboard is hidden
+
+2018-06-06 14:21:08 - [TEST_STEP][PASSED] - takeScreenshot: Screenshot is taken
+
+2018-06-06 14:21:09 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275068902.png]]
+
+2018-06-06 14:21:09 - [TEST_STEP][PASSED] - pressBack: Press back button successfully
+
+2018-06-06 14:21:10 - [MESSAGE][PASSED] - Press back button successfully
+
+2018-06-06 14:21:10 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Basic Test ID/android.widget.TextView1'
+
+2018-06-06 14:21:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 14:21:12 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Basic Test ID/android.widget.TextView1'
+
+2018-06-06 14:21:12 - [TEST_STEP][PASSED] - takeScreenshot: Screenshot is taken
+
+2018-06-06 14:21:13 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275072709.png]]
+
+2018-06-06 14:21:13 - [TEST_STEP][PASSED] - setText: Text 'Salman Khan' has been set to element 'Object Repository/Basic Test ID/android.widget.EditText0 - Search'
+
+2018-06-06 14:21:13 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 14:21:15 - [MESSAGE][PASSED] - Text 'Salman Khan' has been set to element 'Object Repository/Basic Test ID/android.widget.EditText0 - Search'
+
+2018-06-06 14:21:15 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-06-06 14:21:20 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-06-06 14:21:20 - [TEST_STEP][PASSED] - takeScreenshot: Screenshot is taken
+
+2018-06-06 14:21:21 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275080667.png]]
+
+2018-06-06 14:21:21 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Basic Test ID/android.widget.RelativeLayout1'
+
+2018-06-06 14:21:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 14:21:24 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Basic Test ID/android.widget.RelativeLayout1'
+
+2018-06-06 14:21:24 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-06-06 14:21:29 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-06-06 14:21:29 - [TEST_STEP][PASSED] - takeScreenshot: Screenshot is taken
+
+2018-06-06 14:21:30 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275089242.png]]
+
+2018-06-06 14:21:30 - [TEST_STEP][PASSED] - hideKeyboard: Keyboard is hidden
+
+2018-06-06 14:21:32 - [MESSAGE][PASSED] - Keyboard is hidden
+
+2018-06-06 14:21:32 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Basic Test ID/android.widget.LinearLayout23'
+
+2018-06-06 14:21:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 14:21:35 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Basic Test ID/android.widget.LinearLayout23'
+
+2018-06-06 14:21:35 - [TEST_STEP][PASSED] - pressBack: Press back button successfully
+
+2018-06-06 14:21:36 - [MESSAGE][PASSED] - Press back button successfully
+
+2018-06-06 14:21:36 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-06-06 14:21:41 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-06-06 14:21:41 - [TEST_STEP][PASSED] - takeScreenshot: Screenshot is taken
+
+2018-06-06 14:21:43 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275101289.png]]
+
+2018-06-06 14:21:43 - [TEST_STEP][PASSED] - pressBack: Press back button successfully
+
+2018-06-06 14:21:43 - [MESSAGE][PASSED] - Press back button successfully
+
+2018-06-06 14:21:43 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Basic Test ID/android.widget.TextView2'
+
+2018-06-06 14:21:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 14:21:45 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Basic Test ID/android.widget.TextView2'
+
+2018-06-06 14:21:45 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Basic Test ID/android.widget.RelativeLayout2'
+
+2018-06-06 14:21:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 14:21:46 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Basic Test ID/android.widget.RelativeLayout2'
+
+2018-06-06 14:21:46 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-06-06 14:21:51 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-06-06 14:21:51 - [TEST_STEP][PASSED] - takeScreenshot: Screenshot is taken
+
+2018-06-06 14:21:52 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275111836.png]]
+
+2018-06-06 14:21:52 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Basic Test ID/android.widget.Button1 - OK'
+
+2018-06-06 14:21:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 14:21:54 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Basic Test ID/android.widget.Button1 - OK'
+
+2018-06-06 14:21:54 - [TEST_STEP][PASSED] - pressBack: Press back button successfully
+
+2018-06-06 14:21:54 - [MESSAGE][PASSED] - Press back button successfully
+
+2018-06-06 14:21:54 - [TEST_STEP][PASSED] - pressBack: Press back button successfully
+
+2018-06-06 14:21:55 - [MESSAGE][PASSED] - Press back button successfully
+
+2018-06-06 14:21:55 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Basic Test ID/android.widget.RelativeLayout5'
+
+2018-06-06 14:21:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 14:21:57 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Basic Test ID/android.widget.RelativeLayout5'
+
+2018-06-06 14:21:57 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-06-06 14:22:02 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-06-06 14:22:02 - [TEST_STEP][PASSED] - takeScreenshot: Screenshot is taken
+
+2018-06-06 14:22:04 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275122686.png]]
+
+2018-06-06 14:22:04 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Basic Test ID/android.widget.Button0 - MORE'
+
+2018-06-06 14:22:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 14:22:08 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Basic Test ID/android.widget.Button0 - MORE'
+
+2018-06-06 14:22:08 - [TEST_STEP][PASSED] - pressBack: Press back button successfully
+
+2018-06-06 14:22:08 - [MESSAGE][PASSED] - Press back button successfully
+
+2018-06-06 14:22:08 - [TEST_STEP][PASSED] - pressBack: Press back button successfully
+
+2018-06-06 14:22:09 - [MESSAGE][PASSED] - Press back button successfully
+
+2018-06-06 14:22:09 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-06-06 14:22:14 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-06-06 14:22:14 - [TEST_STEP][PASSED] - takeScreenshot: Screenshot is taken
+
+2018-06-06 14:22:15 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_141940\\1528275134364.png]]
+
+2018-06-06 14:22:15 - [TEST_STEP][PASSED] - pressBack: Press back button successfully
+
+2018-06-06 14:22:15 - [MESSAGE][PASSED] - Press back button successfully
+
+2018-06-06 14:22:15 - [TEST_STEP][PASSED] - closeApplication: Close app successfully
+
+2018-06-06 14:22:19 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-06 14:19:43 - [TEST_SUITE][PASSED] - Smoke Test Suit: Test Cases/Basic Test case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
