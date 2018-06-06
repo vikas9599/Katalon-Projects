@@ -18,17 +18,18 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKeywords
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
+// To start Application
 
-Mobile.startApplication('C:\\Users\\Vikash\\Desktop\\App\\app-mastram-universal-debug.apk', true)
-Mobile.delay(5)
+Mobile.startApplication(App_Name, true)
+Mobile.delay(15)
 Mobile.takeScreenshot()
 Mobile.tap(findTestObject('Basic Test ID/android.widget.ImageButton0'), 0)
-Mobile.delay(5)
+Mobile.delay(10)
 Mobile.takeScreenshot()
 Mobile.tap(findTestObject('Basic Test ID/android.widget.TextView15 - My Playlist'), 0)
+Mobile.comment('Click on My Playlist to check weather user is login')
 Mobile.delay(5)
 Mobile.tap(findTestObject('Basic Test ID/android.widget.Button1 - OK'), 0)
-
 Mobile.hideKeyboard()
 Mobile.takeScreenshot()
 Mobile.pressBack()
@@ -39,7 +40,8 @@ Mobile.setText(findTestObject('Basic Test ID/android.widget.EditText0 - Search')
 Mobile.delay(5)
 Mobile.takeScreenshot()
 Mobile.tap(findTestObject('Basic Test ID/android.widget.RelativeLayout1'), 0)
-Mobile.delay(5)
+Mobile.delay(30)
+Mobile.comment('Video is Playing')
 Mobile.takeScreenshot()
 Mobile.hideKeyboard()
 

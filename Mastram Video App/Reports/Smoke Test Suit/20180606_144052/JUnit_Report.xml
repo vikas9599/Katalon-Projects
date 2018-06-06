@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Smoke Test Suit" time="91" tests="0" failures="1" errors="0">
+   <testsuite name="Smoke Test Suit" tests="0" failures="1" errors="0" time="91" timestamp="2018-06-06 14:40:55" hostname="Vikash - VikasRathourPC01" id="Test Suites/Smoke Test Suit">
+      <properties>
+         <property name="deviceName" value="samsung SM-G360H (Android 4.4.4)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_144052"/>
+         <property name="logFiles" value="C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_144052\\appium.log, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_144052\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Vikash - VikasRathourPC01"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="deviceModel" value="SM-G360H"/>
+         <property name="hostAddress" value="192.168.1.22"/>
+         <property name="deviceManufacturer" value="samsung"/>
+         <property name="deviceId" value="4d004692d03a3200"/>
+         <property name="deviceName" value="samsung SM-G360H (Android 4.4.4)"/>
+         <property name="deviceOSVersion" value="4.4.4"/>
+      </properties>
+      <testcase name="Test Cases/Basic Test case" classname="Test Cases/Basic Test case" status="FAILED">
+         <failure type="FAILED" message="Unable to start app at: 'C:\Users\Vikash\Desktop\App\app-mastram-universal-debug.apk' (Root cause: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Activity name '.com.v3mobi.first.cut.activity.SplashActivity' used to start the app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 82.28 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'VIKASRATHOURPC0', ip: '192.168.1.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)"/>
+         <system-out><![CDATA[2018-06-06 14:40:56 - [TEST_CASE][FAILED] - Test Cases/Basic Test case: Test Cases/Basic Test case FAILED because (of) Unable to start app at: 'C:\Users\Vikash\Desktop\App\app-mastram-universal-debug.apk' (Root cause: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Activity name '.com.v3mobi.first.cut.activity.SplashActivity' used to start the app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 82.28 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'VIKASRATHOURPC0', ip: '192.168.1.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)
+
+2018-06-06 14:40:56 - [TEST_STEP][FAILED] - startApplication: Unable to start app at: 'C:\Users\Vikash\Desktop\App\app-mastram-universal-debug.apk' (Root cause: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Activity name '.com.v3mobi.first.cut.activity.SplashActivity' used to start the app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 82.28 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'VIKASRATHOURPC0', ip: '192.168.1.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)
+
+2018-06-06 14:42:26 - [MESSAGE][FAILED] - Unable to start app at: 'C:\Users\Vikash\Desktop\App\app-mastram-universal-debug.apk' (Root cause: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Activity name '.com.v3mobi.first.cut.activity.SplashActivity' used to start the app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 82.28 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'VIKASRATHOURPC0', ip: '192.168.1.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)]]></system-out>
+         <system-err><![CDATA[2018-06-06 14:40:56 - [TEST_CASE][FAILED] - Test Cases/Basic Test case: Test Cases/Basic Test case FAILED because (of) Unable to start app at: 'C:\Users\Vikash\Desktop\App\app-mastram-universal-debug.apk' (Root cause: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Activity name '.com.v3mobi.first.cut.activity.SplashActivity' used to start the app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 82.28 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'VIKASRATHOURPC0', ip: '192.168.1.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-06 14:40:55 - [TEST_SUITE][FAILED] - Smoke Test Suit: Test Cases/Basic Test case FAILED because (of) Unable to start app at: 'C:\Users\Vikash\Desktop\App\app-mastram-universal-debug.apk' (Root cause: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Activity name '.com.v3mobi.first.cut.activity.SplashActivity' used to start the app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 82.28 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'VIKASRATHOURPC0', ip: '192.168.1.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)]]></system-out>
+      <system-err><![CDATA[2018-06-06 14:40:55 - [TEST_SUITE][FAILED] - Smoke Test Suit: Test Cases/Basic Test case FAILED because (of) Unable to start app at: 'C:\Users\Vikash\Desktop\App\app-mastram-universal-debug.apk' (Root cause: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Cannot start the 'com.v3mobi.mastram' application. Original error: Activity name '.com.v3mobi.first.cut.activity.SplashActivity' used to start the app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 82.28 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'VIKASRATHOURPC0', ip: '192.168.1.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)]]></system-err>
+   </testsuite>
+</testsuites>

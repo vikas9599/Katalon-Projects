@@ -2371,4 +2371,267 @@
   <message>End Test Suite : Test Suites/Smoke Test Suit</message>
   <nestedLevel>0</nestedLevel>
 </record>
-</log>
+</log><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-06-06T15:52:48</date>
+  <millis>1528280568932</millis>
+  <sequence>1846</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>939</thread>
+  <message>Appium server started on port 58,939</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-06-06T15:52:49</date>
+  <millis>1528280569167</millis>
+  <sequence>1847</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>939</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;4d004692d03a3200&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">4d004692d03a3200</property>
+</record>
+<record>
+  <date>2018-06-06T15:52:49</date>
+  <millis>1528280569195</millis>
+  <sequence>1848</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>939</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;samsung SM-G360H (Android 4.4.4)&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">samsung SM-G360H (Android 4.4.4)</property>
+</record>
+<record>
+  <date>2018-06-06T15:52:49</date>
+  <millis>1528280569212</millis>
+  <sequence>1849</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>939</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;SM-G360H&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">SM-G360H</property>
+</record>
+<record>
+  <date>2018-06-06T15:52:49</date>
+  <millis>1528280569226</millis>
+  <sequence>1850</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>939</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;samsung&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">samsung</property>
+</record>
+<record>
+  <date>2018-06-06T15:52:49</date>
+  <millis>1528280569245</millis>
+  <sequence>1851</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>939</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-06-06T15:52:49</date>
+  <millis>1528280569256</millis>
+  <sequence>1852</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>939</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;4.4.4&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">4.4.4</property>
+</record>
+<record>
+  <date>2018-06-06T15:56:14</date>
+  <millis>1528280774541</millis>
+  <sequence>1853</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>953</thread>
+  <message>Appium server started on port 59,369</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-06-06T15:56:14</date>
+  <millis>1528280774800</millis>
+  <sequence>1854</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>953</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;4d004692d03a3200&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">4d004692d03a3200</property>
+</record>
+<record>
+  <date>2018-06-06T15:56:14</date>
+  <millis>1528280774830</millis>
+  <sequence>1855</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>953</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;samsung SM-G360H (Android 4.4.4)&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">samsung SM-G360H (Android 4.4.4)</property>
+</record>
+<record>
+  <date>2018-06-06T15:56:14</date>
+  <millis>1528280774843</millis>
+  <sequence>1856</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>953</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;SM-G360H&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">SM-G360H</property>
+</record>
+<record>
+  <date>2018-06-06T15:56:14</date>
+  <millis>1528280774854</millis>
+  <sequence>1857</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>953</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;samsung&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">samsung</property>
+</record>
+<record>
+  <date>2018-06-06T15:56:14</date>
+  <millis>1528280774868</millis>
+  <sequence>1858</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>953</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-06-06T15:56:14</date>
+  <millis>1528280774882</millis>
+  <sequence>1859</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>953</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;4.4.4&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">4.4.4</property>
+</record>
+<record>
+  <date>2018-06-06T16:59:25</date>
+  <millis>1528284565412</millis>
+  <sequence>2292</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1066</thread>
+  <message>Appium server started on port 58,575</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-06-06T17:00:17</date>
+  <millis>1528284617100</millis>
+  <sequence>2294</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1066</thread>
+  <message>Logging run data &amp;apos;appiumVersion&amp;apos; with value &amp;apos;1.8.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.8.1</property>
+</record>
+<record>
+  <date>2018-06-06T17:00:17</date>
+  <millis>1528284617147</millis>
+  <sequence>2295</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1066</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;4786d8cc0104&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">4786d8cc0104</property>
+</record>
+<record>
+  <date>2018-06-06T17:00:17</date>
+  <millis>1528284617161</millis>
+  <sequence>2296</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1066</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Xiaomi Redmi Note 4 (Android 7.0)&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Xiaomi Redmi Note 4 (Android 7.0)</property>
+</record>
+<record>
+  <date>2018-06-06T17:00:17</date>
+  <millis>1528284617172</millis>
+  <sequence>2297</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1066</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;Redmi Note 4&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">Redmi Note 4</property>
+</record>
+<record>
+  <date>2018-06-06T17:00:17</date>
+  <millis>1528284617184</millis>
+  <sequence>2298</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1066</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;Xiaomi&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">Xiaomi</property>
+</record>
+<record>
+  <date>2018-06-06T17:00:17</date>
+  <millis>1528284617195</millis>
+  <sequence>2299</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1066</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-06-06T17:00:17</date>
+  <millis>1528284617210</millis>
+  <sequence>2300</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1066</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>

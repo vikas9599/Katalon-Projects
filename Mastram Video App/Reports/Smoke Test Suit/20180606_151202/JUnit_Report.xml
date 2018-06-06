@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Smoke Test Suit" time="117" tests="0" failures="1" errors="0">
+   <testsuite name="Smoke Test Suit" tests="0" failures="1" errors="0" time="117" timestamp="2018-06-06 15:12:05" hostname="Vikash - VikasRathourPC01" id="Test Suites/Smoke Test Suit">
+      <properties>
+         <property name="deviceName" value="samsung SM-G360H (Android 4.4.4)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_151202"/>
+         <property name="logFiles" value="C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_151202\\appium.log, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_151202\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_151202\\1528278173810.png, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_151202\\1528278194214.png, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_151202\\1528278231865.png, C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_151202\\1528278233839.png"/>
+         <property name="hostName" value="Vikash - VikasRathourPC01"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.8.1"/>
+         <property name="deviceModel" value="SM-G360H"/>
+         <property name="hostAddress" value="192.168.1.22"/>
+         <property name="deviceManufacturer" value="samsung"/>
+         <property name="deviceId" value="4d004692d03a3200"/>
+         <property name="deviceName" value="samsung SM-G360H (Android 4.4.4)"/>
+         <property name="deviceOSVersion" value="4.4.4"/>
+      </properties>
+      <testcase name="Test Cases/Basic Test case" classname="Test Cases/Basic Test case" status="FAILED">
+         <failure type="FAILED" message="Failed to tap on element 'Object Repository/Basic Test ID/android.widget.Button1 - OK' (Root cause: Object Object Repository/Basic Test ID/android.widget.Button1 - OK not found)"/>
+         <system-out><![CDATA[2018-06-06 15:12:07 - [TEST_CASE][FAILED] - Test Cases/Basic Test case: Test Cases/Basic Test case FAILED because (of) Failed to tap on element 'Object Repository/Basic Test ID/android.widget.Button1 - OK' (Root cause: Object Object Repository/Basic Test ID/android.widget.Button1 - OK not found)
+
+2018-06-06 15:12:07 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Invoke 'com.kms.katalon.core.annotation.BeforeTestCase' method: 'BeforeTest.sampleBeforeTestCase(...)' completed.
+
+2018-06-06 15:12:07 - [TEST_STEP][PASSED] - Statement - println(testCaseContext.getTestCaseId()): null
+
+2018-06-06 15:12:07 - [TEST_STEP][PASSED] - Statement - println(testCaseContext.getTestCaseVariables()): Invoke 'com.kms.katalon.core.annotation.BeforeTestCase' method: 'BeforeTest.sampleBeforeTestCase(...)' completed.
+
+2018-06-06 15:12:07 - [TEST_STEP][PASSED] - startApplication: Started app at: 'C:\Users\Vikash\Desktop\App\app-mastram-universal-debug.apk'
+
+2018-06-06 15:12:48 - [MESSAGE][PASSED] - Started app at: 'C:\Users\Vikash\Desktop\App\app-mastram-universal-debug.apk'
+
+2018-06-06 15:12:48 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-06-06 15:12:53 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-06-06 15:12:53 - [TEST_STEP][PASSED] - takeScreenshot: Screenshot is taken
+
+2018-06-06 15:12:55 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_151202\\1528278173810.png]]
+
+2018-06-06 15:12:55 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Basic Test ID/android.widget.ImageButton0'
+
+2018-06-06 15:12:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 15:13:09 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Basic Test ID/android.widget.ImageButton0'
+
+2018-06-06 15:13:09 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-06-06 15:13:14 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-06-06 15:13:14 - [TEST_STEP][PASSED] - takeScreenshot: Screenshot is taken
+
+2018-06-06 15:13:15 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_151202\\1528278194214.png]]
+
+2018-06-06 15:13:15 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/Basic Test ID/android.widget.TextView15 - My Playlist'
+
+2018-06-06 15:13:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 15:13:16 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Basic Test ID/android.widget.TextView15 - My Playlist'
+
+2018-06-06 15:13:16 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-06-06 15:13:21 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-06-06 15:13:21 - [TEST_STEP][FAILED] - tap: Failed to tap on element 'Object Repository/Basic Test ID/android.widget.Button1 - OK' (Root cause: Object Object Repository/Basic Test ID/android.widget.Button1 - OK not found)
+
+2018-06-06 15:13:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-06 15:13:53 - [MESSAGE][FAILED] - Object Object Repository/Basic Test ID/android.widget.Button1 - OK not found
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_151202\\1528278231865.png]]
+
+2018-06-06 15:13:55 - [MESSAGE][FAILED] - Failed to tap on element 'Object Repository/Basic Test ID/android.widget.Button1 - OK' (Root cause: Object Object Repository/Basic Test ID/android.widget.Button1 - OK not found)
+[[ATTACHMENT|C:\\Users\\Vikash\\Katalon Studio\\Mastram Video App\\Reports\\Smoke Test Suit\\20180606_151202\\1528278233839.png]]
+
+2018-06-06 15:13:55 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Invoke 'com.kms.katalon.core.annotation.AfterTestCase' method: 'AfterTest.sampleAfterTestCase(...)' completed.
+
+2018-06-06 15:13:55 - [TEST_STEP][PASSED] - Statement - println(testCaseContext.getTestCaseId()): null
+
+2018-06-06 15:13:55 - [TEST_STEP][PASSED] - Statement - println(testCaseContext.getTestCaseStatus()): Invoke 'com.kms.katalon.core.annotation.AfterTestCase' method: 'AfterTest.sampleAfterTestCase(...)' completed.]]></system-out>
+         <system-err><![CDATA[2018-06-06 15:12:07 - [TEST_CASE][FAILED] - Test Cases/Basic Test case: Test Cases/Basic Test case FAILED because (of) Failed to tap on element 'Object Repository/Basic Test ID/android.widget.Button1 - OK' (Root cause: Object Object Repository/Basic Test ID/android.widget.Button1 - OK not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-06 15:12:05 - [TEST_SUITE][FAILED] - Smoke Test Suit: Test Cases/Basic Test case FAILED because (of) Failed to tap on element 'Object Repository/Basic Test ID/android.widget.Button1 - OK' (Root cause: Object Object Repository/Basic Test ID/android.widget.Button1 - OK not found)]]></system-out>
+      <system-err><![CDATA[2018-06-06 15:12:05 - [TEST_SUITE][FAILED] - Smoke Test Suit: Test Cases/Basic Test case FAILED because (of) Failed to tap on element 'Object Repository/Basic Test ID/android.widget.Button1 - OK' (Root cause: Object Object Repository/Basic Test ID/android.widget.Button1 - OK not found)]]></system-err>
+   </testsuite>
+</testsuites>

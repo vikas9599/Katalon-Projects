@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Smoke Test Suit,,This Test Suit is perform for every task.,2018-06-06 14:40:55,2018-06-06 14:42:27,1m - 31.955s,FAILED
+,,,,,,
+Test Cases/Basic Test case,,This is a Basic Test case,2018-06-06 14:40:56,2018-06-06 14:42:26,1m - 30.774s,FAILED
+startApplication,,,2018-06-06 14:40:56,2018-06-06 14:42:26,1m - 30.042s,FAILED

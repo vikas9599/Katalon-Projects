@@ -4,7 +4,7 @@
    <name>Smoke Test Suit</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-06-06T14:19:40</lastRun>
+   <lastRun>2018-06-06T15:12:02</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -16,5 +16,11 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Basic Test case</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a9e215ee-de2c-4ed2-9c26-5c3b59661d91</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

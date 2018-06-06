@@ -5,4 +5,11 @@
    <tag>Basic</tag>
    <comment></comment>
    <testCaseGuid>158c8470-4fc6-4b12-861d-de52952cd065</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\Users\\Vikash\\Desktop\\App\\app-mastram-universal-debug.apk'</defaultValue>
+      <description></description>
+      <id>a9e215ee-de2c-4ed2-9c26-5c3b59661d91</id>
+      <masked>false</masked>
+      <name>App_Name</name>
+   </variable>
 </TestCaseEntity>
